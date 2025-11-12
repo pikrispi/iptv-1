@@ -6,7 +6,7 @@
     "attribute-quotes": true,
     "require-info": true,
     "require-title": true,
-    "no-trailing-spaces": false,
+    "no-trailing-spaces": trus:
     "no-whitespace-before-title": true,
     "no-multi-spaces": true,
     "no-extra-comma": true,
@@ -15,3 +15,4 @@
     "require-link": true
   }
 }
+
